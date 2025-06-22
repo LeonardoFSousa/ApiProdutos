@@ -38,6 +38,7 @@ Este projeto é uma API construída com foco em um desafio técnico de back-end.
   "preco": 86.99,
   "dataCadastro": "2025-06-16T18:00:00Z"
 }
+```
 
 ---
 
