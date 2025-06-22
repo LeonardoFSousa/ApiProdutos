@@ -75,5 +75,5 @@ npm run dev
 
 5. Acesse a documentação:
 ```
-https://apiprodutos-ubhc.onrender.com/api-dcos
+https://apiprodutos-ubhc.onrender.com/api-docs
 ```
